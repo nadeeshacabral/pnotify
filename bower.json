@@ -26,5 +26,8 @@
         "buildcustom.php",
         "pnotify.tooltip.js",
         "pnotify.mobile.js"
-    ]
+    ],
+    "dependencies": {
+        "jquery": ">=1.6"
+    }
 }
